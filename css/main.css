@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(194, 235, 189);
+  }
+
+  div {
+    animation-duration: 3s;
+  } h1 {
+    color: white;
+    text-align: center; }
+
+    div ¨{border-color: black;}
+
+    h2 { position: absolute;
+        left: 900px;
+        top: 1950px;
+    }
+#cartagena{ align-self: center; 
+    /*position: absolute;
+        left: 900px;
+        top: 500px; */
+
+}
