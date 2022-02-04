@@ -1,11 +1,12 @@
 body {
-    background-color: rgb(194, 235, 189);
+    background-color: #e5ffe2;
+    text-align: center;
   }
 
-  div {
-    animation-duration: 3s;
-  } h1 {
-    color: white;
+/*  
+  h1 {
+    color: rgb(0, 0, 0);
+    border-color: black;
     text-align: center; }
 
     div ¨{border-color: black;}
@@ -17,6 +18,16 @@ body {
 #cartagena{ align-self: center; 
     /*position: absolute;
         left: 900px;
-        top: 500px; */
+        top: 500px; */}
 
-}
+#cancun{ align-self: center;
+    /*position: absolute;
+        left: 900px;
+        */}
+
+#Medellin¨{ align-self: center;
+    /*position: absolute;
+        left: 900px;
+        top: 500px; */}
+
+*/
