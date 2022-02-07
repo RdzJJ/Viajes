@@ -1,13 +1,18 @@
-body {
-    background-color: #e5ffe2;
+body { 
+    background-color:beige;
     text-align: center;
+    background-repeat: repeat;
+    background-position: center;
+    border: 0mm;
+    border-color: black; 
   }
+   
 
-/*  
+/*
   h1 {
     color: rgb(0, 0, 0);
     border-color: black;
-    text-align: center; }
+    }
 
     div ¨{border-color: black;}
 
@@ -18,16 +23,34 @@ body {
 #cartagena{ align-self: center; 
     /*position: absolute;
         left: 900px;
-        top: 500px; */}
+        top: 500px; }
 
-#cancun{ align-self: center;
-    /*position: absolute;
-        left: 900px;
-        */}
 
-#Medellin¨{ align-self: center;
-    /*position: absolute;
-        left: 900px;
-        top: 500px; */}
+#cancun{ 
+    align-self: center;
+    position: absolute;
+    left: 900px;
+    
+}
 
-*/
+#Medellin{ 
+    align-self: center;
+    position: absolute;
+        left: 800px;
+        top: 500px;
+} 
+#santacho
+    
+    h1 {    color: black;
+    height: initial;
+    text-decoration-line: overline;
+    text-decoration-color: gray;
+    border-block-end-style: outset;
+    border-color: rgb(161, 161, 161);
+}
+
+    h2 {    color: black;
+
+    text-decoration-color: rgb(177, 177, 177);
+    text-align: center;
+} 
